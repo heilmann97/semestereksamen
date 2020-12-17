@@ -31,4 +31,38 @@ body {
     color: #000;
   }
 
-  
+  nav {
+    width: auto;
+    height: auto;
+    background-color: #000;
+  }
+
+  ul {
+    text-align: center;
+  }
+
+  ul li {
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+    line-height: normal;
+  }
+
+  ul li a  {
+    display: block;
+    padding: 0 130px;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: helvetica;
+    color: #fff
+  }
+
+  ul li a:hover {
+    color: #738290
+  }
+  .Forsidebillede {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
